@@ -23,3 +23,7 @@
 像素美術與光影、三層探索、工具與營火生存、六階段主線與雙結局、世界進度存檔、原子更新與備份恢復。
 
 這是測試版本，難度平衡仍在調整。Windows 可能對尚未簽章的新軟體顯示來源提示；請確認下載來源為本發布庫。
+
+## 啟動器畫面
+
+![Artelu 啟動器](https://github.com/MoriTeahouse/Artelu-Releases/releases/download/v0.3.0-test.1/launcher.png)
